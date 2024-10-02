@@ -26,7 +26,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <style>
         body {
-            background-image: url("New4.jpg");
+            background-image: url("Img/New4.jpg");
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;

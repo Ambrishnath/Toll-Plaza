@@ -41,7 +41,7 @@ function getTollPrice() {
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <style>
         body {
-            background-image: url("Toll Image.jpg");
+            background-image: url("Img/Toll Image.jpg");
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;

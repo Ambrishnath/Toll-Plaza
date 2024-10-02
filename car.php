@@ -36,7 +36,7 @@ function addUser($number, $type, $date, $name, $mobile, $tax) {
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <style>
         body {
-            background-image: url("New3.jpg");
+            background-image: url("Img/New3.jpg");
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;

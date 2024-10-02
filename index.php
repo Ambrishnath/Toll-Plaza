@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <style>
         body {
-            background-image: url("New3.jpg");
+            background-image: url("Img/New3.jpg");
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
@@ -62,7 +62,7 @@
     <div class="container text-center">
         Toll Plaza Management System &copy; 2023 All rights reserved. 
         <br>
-        Developed by Harsh Kumar Gupta 
+        Developed by Ambrishnath Mishra
     </div>
 </footer>
 
